@@ -968,13 +968,13 @@ crontab -e
 
 **User**
 
-turn this whole project into a Git repo named 'rename-screenshots' inside ~/Desktop/github-berhane/ and README file describing all the necssary steps other need to reuse the script
+turn this whole project into a Git repo named 'rename-screenshots' inside ~/Desktop/github-user/ and README file describing all the necssary steps other need to reuse the script
 
 ---
 
 **Cursor**
 
-It looks like I can't directly access or create directories on your system, but I can guide you step-by-step on how to set up your project as a Git repository named `rename-screenshots` inside `~/Desktop/github-berhane/`, and provide a ready-to-use README.
+It looks like I can't directly access or create directories on your system, but I can guide you step-by-step on how to set up your project as a Git repository named `rename-screenshots` inside `~/Desktop/github-user/`, and provide a ready-to-use README.
 
 ---
 
@@ -982,8 +982,8 @@ It looks like I can't directly access or create directories on your system, but 
 
 Open your terminal and run:
 ```bash
-mkdir -p ~/Desktop/github-berhane/rename-screenshots
-cd ~/Desktop/github-berhane/rename-screenshots
+mkdir -p ~/Desktop/github-user/rename-screenshots
+cd ~/Desktop/github-user/rename-screenshots
 ```
 
 ---
@@ -1107,8 +1107,8 @@ git commit -m "Initial commit: screenshot renamer script and README"
 Let me know if you want a requirements.txt or any other files, or if you want the README content adjusted!
 
 ```shellscript
-mkdir -p ~/Desktop/github-berhane/rename-screenshots
-cd ~/Desktop/github-berhane/rename-screenshots
+mkdir -p ~/Desktop/github-user/rename-screenshots
+cd ~/Desktop/github-user/rename-screenshots
 ```
 
 ```shellscript
